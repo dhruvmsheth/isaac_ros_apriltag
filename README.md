@@ -9,7 +9,7 @@ NVIDIA-accelerated AprilTag detection and pose estimation.
 [Isaac ROS AprilTag](https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_apriltag) contains a ROS 2 package for detection of
 [AprilTags](https://april.eecs.umich.edu/software/apriltag),
 a type of fiducial marker that provides a point of reference or measure.
-AprilTag detections are GPU-accelerated for high performance.
+AprilTag detections are GPU-accelerated for high performance. TODO: Add depth input to obtain the absolute location of apriltags and enable support for detection for multiple apriltags at once.
 
 <div align="center"><a class="reference internal image-reference" href="https://media.githubusercontent.com/media/NVIDIA-ISAAC-ROS/.github/main/resources/isaac_ros_docs/repositories_and_packages/isaac_ros_apriltag/isaac_ros_apriltag_nodegraph.png/"><img alt="image" src="https://media.githubusercontent.com/media/NVIDIA-ISAAC-ROS/.github/main/resources/isaac_ros_docs/repositories_and_packages/isaac_ros_apriltag/isaac_ros_apriltag_nodegraph.png/" width="800px"/></a></div>
 
